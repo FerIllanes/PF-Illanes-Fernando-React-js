@@ -24,7 +24,7 @@ El objetivo principal de este proyecto es crear una plataforma de comercio elect
 1- Clonar el repositorio: Clona este repositorio en tu máquina local:
 
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/FerIllanes/PF-Illanes-Fernando-React-js
 ```
 
 2 - Instalar dependencias: Navega hasta la carpeta del proyecto y ejecuta el siguiente comando para instalar todas las dependencias:
