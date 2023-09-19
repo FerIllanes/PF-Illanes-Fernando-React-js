@@ -1,0 +1,33 @@
+.carrito {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2rem;
+    padding: 0.5rem;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid #fdfdfd;
+    background-color: #c0bdbd77;
+}
+
+.carrito-img {
+    color: #fdfdfd;
+}
+
+.carrito-img:hover {
+    color: #e77676;
+}
+
+@media screen and (max-width:480px) {
+
+    .carrito {
+        width: 50px;
+        padding: 0.2rem;
+    }
+
+    .svg {
+        width: 20px;
+    }
+
+
+}
